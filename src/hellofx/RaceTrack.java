@@ -1,9 +1,9 @@
 /*
  * Javeria Hanif 
  * Apr 22, 2024
- * CMSC 403 Spring 2024 
  * RaceTrack extends the JavaFX application  
  */
+
 package hellofx;
 
 // import statements 
